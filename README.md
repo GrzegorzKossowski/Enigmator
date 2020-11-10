@@ -8,4 +8,5 @@ author: Grzegorz Kossowski
 **TODO:**
 
 Wersja ostateczna.
+
 ![alt text](https://github.com/GrzegorzKossowski/Enigmator/blob/master/Enigmator.png)
